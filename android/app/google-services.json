@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342565843113",
+    "project_id": "my-e-commercial-app-ccf97",
+    "storage_bucket": "my-e-commercial-app-ccf97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342565843113:android:d8ef454c2ef018eec7f9b8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342565843113-nace410hvml69a40vhiao4taobq2k549.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhSXU507LrpFWSpM7onv-RjcCmgJpTMGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342565843113-nace410hvml69a40vhiao4taobq2k549.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
